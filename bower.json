@@ -7,7 +7,11 @@
   ],
   "description": "Google fonts",
   "keywords": [
-    "font"
+    "font",
+    "lato",
+    "acme",
+    "oleo-script",
+    "open-sans"
   ],
   "license": "Apache License version 2.0",
   "ignore": [
